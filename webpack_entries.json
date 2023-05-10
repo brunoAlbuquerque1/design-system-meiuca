@@ -4,6 +4,9 @@
     },
     "button": {
         "import": "./src/components/button/index.js"
+    },
+    "checkbox": {
+        "import": "./src/components/checkbox/index.js"
     }
 
 }
