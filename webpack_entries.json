@@ -1,0 +1,12 @@
+{
+    "main": {
+        "import": "./src/index.js"
+    },
+    "button": {
+        "import": "./src/components/button/index.js"
+    }
+
+}
+
+
+
